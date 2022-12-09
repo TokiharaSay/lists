@@ -793,6 +793,7 @@
 /ip dns static add regexp="^(.*\\.)?blog.pentalogic\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.qooza\\.hk\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.ranxiang\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?blog.runebalot\\.cn\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.sina.com\\.tw\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.sogoo\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.soylent\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -5577,6 +5578,7 @@
 /ip dns static add regexp="^(.*\\.)?speakerdeck\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?specxinzl.jigsy\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?speedify\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?speedtest\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?spem\\.at\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?spencertipping\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?spendee\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw

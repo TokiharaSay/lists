@@ -792,6 +792,7 @@ blog.pathtosharepoint.com
 blog.pentalogic.net
 blog.qooza.hk
 blog.ranxiang.com
+blog.runebalot.cn
 blog.sina.com.tw
 blog.sogoo.org
 blog.soylent.com
@@ -5576,6 +5577,7 @@ spb.com
 speakerdeck.com
 specxinzl.jigsy.com
 speedify.com
+speedtest.net
 spem.at
 spencertipping.com
 spendee.com
