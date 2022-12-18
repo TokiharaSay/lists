@@ -792,7 +792,6 @@ blog.pathtosharepoint.com
 blog.pentalogic.net
 blog.qooza.hk
 blog.ranxiang.com
-blog.runebalot.cn
 blog.sina.com.tw
 blog.sogoo.org
 blog.soylent.com
@@ -2829,6 +2828,7 @@ hahlo.com
 hakkatv.org.tw
 handcraftedsoftware.org
 hanime.tv
+hanime1.me
 hanminzu.org
 hanunyi.com
 hao.news
