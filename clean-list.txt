@@ -2828,7 +2828,6 @@ hahlo.com
 hakkatv.org.tw
 handcraftedsoftware.org
 hanime.tv
-hanime1.me
 hanminzu.org
 hanunyi.com
 hao.news
@@ -5546,6 +5545,7 @@ somee.com
 songjianjun.com
 sonicbbs.cc
 sonidodelaesperanza.org
+sony.jp
 sopcast.com
 sopcast.org
 sorazone.net

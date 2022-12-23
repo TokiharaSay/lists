@@ -2829,7 +2829,6 @@
 /ip dns static add regexp="^(.*\\.)?hakkatv.org\\.tw\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?handcraftedsoftware\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hanime\\.tv\$" type=FWD forward-to=192.168.2.199 comment=gfw
-/ip dns static add regexp="^(.*\\.)?hanime1\\.me\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hanminzu\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hanunyi\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hao\\.news\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -5547,6 +5546,7 @@
 /ip dns static add regexp="^(.*\\.)?songjianjun\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?sonicbbs\\.cc\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?sonidodelaesperanza\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?sony\\.jp\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?sopcast\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?sopcast\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?sorazone\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
