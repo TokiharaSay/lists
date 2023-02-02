@@ -3881,6 +3881,7 @@ payload:
   - '+.metarthunter.com'
   - '+.meteorshowersonline.com'
   - '+.metro.taipei'
+  - '+.metroforsteam.com'
   - '+.metrohk.com.hk'
   - '+.metrolife.ca'
   - '+.metroradio.com.hk'
