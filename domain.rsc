@@ -5128,7 +5128,6 @@
 /ip dns static add regexp="^(.*\\.)?rationalwiki\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ratx\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?raw.githack\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
-/ip dns static add regexp="^(.*\\.)?raw.githubusercontent\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?rawgit\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?rawgithub\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?razyboard\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
