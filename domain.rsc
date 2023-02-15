@@ -709,7 +709,6 @@
 /ip dns static add regexp="^(.*\\.)?binf\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bing\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bing\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
-/ip dns static add regexp="^(.*\\.)?bing.com\\.cn\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bing\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bing123\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bing135\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
