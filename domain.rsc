@@ -4030,6 +4030,7 @@
 /ip dns static add regexp="^(.*\\.)?mihk\\.hk\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mihr\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mihua\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?mikanani\\.me\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mike.cz\\.cc\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mikesoltys\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mikocon\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
