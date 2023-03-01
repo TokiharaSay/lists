@@ -1,4 +1,5 @@
 /ip dns static remove numbers=[/ip dns static find comment=gfw]
+/ip dns static add regexp="^(.*\\.)?\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?000webhost\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?030buy\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?0914.global.ssl.fastly\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
