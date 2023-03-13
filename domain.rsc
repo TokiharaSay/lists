@@ -4902,6 +4902,7 @@
 /ip dns static add regexp="^(.*\\.)?po2b\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pobieramy\\.top\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?podbean\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?podcast\\.app\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?podcast\\.co\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?podictionary\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pokerstars\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
