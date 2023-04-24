@@ -5353,6 +5353,7 @@ seevpn.com
 seezone.net
 sejie.com
 sellclassics.com
+send.firefox.com
 sendsmtp.com
 sendspace.com
 sensortower.com
@@ -5894,6 +5895,7 @@ thaicn.com
 thb.gov.tw
 theatlantic.com
 theatrum-belli.com
+theb.ai
 thebcomplex.com
 theblaze.com
 theblemish.com
