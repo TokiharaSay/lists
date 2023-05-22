@@ -1623,6 +1623,7 @@
 /ip dns static add regexp="^(.*\\.)?disqus\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?dit-inc\\.us\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ditu.live\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?diversity\\.google\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?dizhidizhi\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?dizhuzhishang\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?djangosnippets\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -3086,6 +3087,7 @@
 /ip dns static add regexp="^(.*\\.)?huaxiabao\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?huaxin\\.ph\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?huayuworld\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?hub.docker\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hudatoriq.web\\.id\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hudson\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?huffingtonpost\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -4749,6 +4751,7 @@
 /ip dns static add regexp="^(.*\\.)?pacopacomama\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?padmanet\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?page.bid.yahoo\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?page\\.link\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?page2rss\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pages\\.dev\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pagodabox\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -4912,6 +4915,7 @@
 /ip dns static add regexp="^(.*\\.)?podcast\\.app\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?podcast\\.co\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?podictionary\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?poe\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pokerstars\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pokerstars\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pokerstrategy\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -6730,6 +6734,7 @@
 /ip dns static add regexp="^(.*\\.)?weiming\\.info\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?weiquanwang\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?weisuo\\.ws\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?wellbeing\\.google\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?welovecock\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?welt\\.de\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wemigrate\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
