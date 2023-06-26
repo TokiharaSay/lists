@@ -3658,6 +3658,7 @@ link-o-rama.com
 linkedin.com
 linkideo.com
 linksalpha.com
+linktr.ee
 linkuswell.com
 linux.org.hk
 linuxtoy.org
@@ -5532,6 +5533,7 @@ sm-miracle.com
 sm3ha.ru
 smartdnsproxy.com
 smarthide.com
+smashwords.com
 smchbooks.com
 smh.com.au
 smhric.org
