@@ -3334,6 +3334,7 @@
 /ip dns static add regexp="^(.*\\.)?intunewiki\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?investigating.wordpress\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?inxian\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?io\\.google\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iotinactionevents\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iownyour\\.biz\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iownyour\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -5309,6 +5310,7 @@
 /ip dns static add regexp="^(.*\\.)?roodo\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?rosechina\\.net\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?rotten\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
+/ip dns static add regexp="^(.*\\.)?rou\\.video\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?roucdn\\.link\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?rpglogs\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?rsdlmonitor\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
