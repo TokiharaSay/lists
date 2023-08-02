@@ -256,6 +256,7 @@ alhayat.com
 alicejapan.co.jp
 aliengu.com
 alive.bar
+aljazeera.com
 alkasir.com
 all4mom.org
 allcoin.com
@@ -1309,6 +1310,7 @@ cloudflare-ipfs.com
 cloudflare.com
 cloudfront.net
 cloudfunctions.net
+cloudokyo.cloud
 club1069.com
 clubhouseapi.com
 clyp.it
@@ -2309,6 +2311,7 @@ gamme.com.tw
 gamousa.com
 ganges.com
 ganjing.com
+ganjing.world
 ganjingworld.com
 gaoming.net
 gaopi.net
