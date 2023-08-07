@@ -5548,6 +5548,7 @@ payload:
   - '+.singaporepools.com.sg'
   - '+.singfortibet.com'
   - '+.singpao.com.hk'
+  - '+.singtao.ca'
   - '+.singtao.com'
   - '+.singtaousa.com'
   - '+.sino-monthly.com'
