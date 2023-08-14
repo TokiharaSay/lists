@@ -2134,6 +2134,7 @@ payload:
   - '+.fooooo.com'
   - '+.footprintdns.com'
   - '+.footwiball.com'
+  - '+.forbes.com'
   - '+.foreignaffairs.com'
   - '+.foreignpolicy.com'
   - '+.forum.baby-kingdom.com'
