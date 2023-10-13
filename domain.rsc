@@ -2876,7 +2876,6 @@
 /ip dns static add regexp="^(.*\\.)?halktv.com\\.tr\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?handcraftedsoftware\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hanime\\.tv\$" type=FWD forward-to=192.168.2.199 comment=gfw
-/ip dns static add regexp="^(.*\\.)?hanime1\\.me\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hanminzu\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hanunyi\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hao\\.news\$" type=FWD forward-to=192.168.2.199 comment=gfw
@@ -4135,7 +4134,6 @@
 /ip dns static add regexp="^(.*\\.)?mihk\\.hk\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mihr\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mihua\\.org\$" type=FWD forward-to=192.168.2.199 comment=gfw
-/ip dns static add regexp="^(.*\\.)?mikanani\\.me\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mike.cz\\.cc\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mikesoltys\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mikocon\\.com\$" type=FWD forward-to=192.168.2.199 comment=gfw
