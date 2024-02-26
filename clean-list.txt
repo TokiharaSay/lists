@@ -1294,6 +1294,7 @@ chubun.com
 chuizi.net
 churchinhongkong.org
 chushigangdrug.ch
+ciciai.com
 cienen.com
 cineastentreff.de
 cipfg.org
@@ -1435,6 +1436,7 @@ coolder.com
 coolloud.org.tw
 coolncute.com
 coolstuffinc.com
+copilot.microsoft.com
 cortana.ai
 cortanaanalytics.com
 cortanaskills.com
@@ -1448,6 +1450,7 @@ costco.com
 cotweet.com
 counter.social
 coursehero.com
+coze.com
 cpj.org
 cq99.us
 crackle.com
@@ -3889,6 +3892,7 @@ m12.vc
 m8008.com
 ma.hao123.com
 macgamestore.com
+machbbs.com
 macrovpn.com
 macts.com.tw
 mad-ar.ch
@@ -5941,6 +5945,7 @@ swissinfo.ch
 swissvpn.net
 switch1.jp
 switchvpn.net
+sydney.bing.com
 sydneytoday.com
 sylfoundation.org
 syncback.com
