@@ -416,6 +416,7 @@ ar.hao123.com
 archive.fo
 archive.is
 archive.li
+archive.md
 archive.org
 archive.ph
 archive.today
@@ -7384,6 +7385,7 @@ ywpw.com
 yx51.net
 yyii.org
 yyjlymb.xyz
+yysub.net
 yzzk.com
 z-lib.org
 zacebook.com
