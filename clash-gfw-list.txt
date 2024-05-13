@@ -1148,6 +1148,7 @@ payload:
   - '+.chaoex.com'
   - '+.chapm25.com'
   - '+.charticulator.com'
+  - '+.chatgpt.com'
   - '+.chatnook.com'
   - '+.chaturbate.com'
   - '+.checkgfw.com'
