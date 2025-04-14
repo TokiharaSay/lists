@@ -134,6 +134,7 @@
 85st.com
 881903.com
 888.com
+8888.google
 888poker.com
 89-64.org
 89.64.charter.constitutionalism.solutions
@@ -483,6 +484,7 @@ atv-ext.amazon.com
 atv-ps.amazon.com
 auctions.yahoo.co.jp
 audacy.com
+audiomack.com
 audionow.com
 auntology.fandom.com
 auth.openai.com
@@ -1386,6 +1388,7 @@ cloud.dify.ai
 cloud.mail.ru
 cloudapp.net
 cloudappsecurity.com
+cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare.com
 cloudfront.net
@@ -2123,6 +2126,7 @@ fangong.org
 fangongheike.com
 fanhaodang.com
 fanhaolou.com
+fani.com
 fanqiang.network
 fanqiang.tk
 fanqiangdang.com
@@ -2146,6 +2150,7 @@ faststone.org
 fasttrackreadysupport.com
 fatakat-n.club
 fatbtc.com
+favcomic.com
 favotter.net
 favstar.fm
 fawanghuihui.org
@@ -2969,6 +2974,7 @@ gyatsostudio.com
 gzm.tv
 gzone-anime.info
 h-china.org
+h-ciyuan.com
 h-moe.com
 h1n1china.org
 h528.com
@@ -3983,6 +3989,7 @@ manjaro.org
 mansion.com
 mansionpoker.com
 manta.com
+manwa.me
 manyvoices.news
 mapblast.com
 maplew.com
@@ -5518,6 +5525,7 @@ s1s1s1.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
+s3.eu-central-1.amazonaws.com
 s8forum.com
 sa.hao123.com
 sacks.com
@@ -5716,6 +5724,7 @@ simplecd.org
 simpleproductivityblog.com
 simpleswap.io
 sinchew.com.my
+sing-box.sagernet.org
 singaporepools.com.sg
 singfortibet.com
 singlelogin.se
@@ -5837,6 +5846,7 @@ sos.org
 sosad.fun
 sosreader.com
 sostibet.org
+sotwe.com
 soubory.com
 soul-plus.net
 soulcaliburhentai.net
@@ -5904,6 +5914,7 @@ ssglobal.me
 ssh91.com
 ssl.webpack.de
 ssl443.org
+ssm.fun
 sspanel.net
 sspanel.org
 sspro.ml
@@ -6232,6 +6243,7 @@ thisav.com
 thlib.org
 thomasbernhard.org
 thongdreams.com
+thotsbay.tv
 threadreaderapp.com
 threads.net
 threatchaos.com
@@ -6777,6 +6789,7 @@ uygur.org
 uymaarip.com
 v.roucdn
 v2.help
+v2.hysteria.network
 v2ex.com
 v2fly.org
 v2mm.tech
