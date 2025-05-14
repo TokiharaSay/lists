@@ -4667,6 +4667,10 @@ nic.gov
 nicovideo.jp
 nighost.org
 nightswatch.top
+nikke-en.com
+nikke-jp.com
+nikke-kr.com
+nikke.hotcool.tw
 nikkei.com
 ninecommentaries.com
 ninjacloak.com
@@ -4702,6 +4706,7 @@ nordstrommedia.com
 nordstromrack.com
 nordvpn.com
 nos.nl
+notebooklm.google
 notepad-plus-plus.org
 notify.dropboxapi.com
 nottinghampost.com
