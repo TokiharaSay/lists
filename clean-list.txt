@@ -3361,6 +3361,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 img.dlsite.jp
 img.ly
+img.picgo.net
 imgasd.com
 imgchili.net
 imgmega.com
@@ -5334,6 +5335,7 @@ radiohilight.net
 radioline.co
 radiovaticana.org
 radiovncr.com
+radmin-vpn.com
 rael.org
 raggedbanner.com
 raidcall.com.tw
