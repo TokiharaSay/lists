@@ -6958,6 +6958,7 @@
 /ip dns static add regexp="^(.*\\.)?wailaike\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wainao\\.me\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?waiwaier\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
+/ip dns static add regexp="^(.*\\.)?walletconnect\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wallmama\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wallornot\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wallpapercasa\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
