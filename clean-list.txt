@@ -398,6 +398,7 @@ api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
 api.dropboxapi.com
+api.palworldgame.com
 api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
@@ -1585,6 +1586,7 @@ csw.org.uk
 ct.org.tw
 ctao.org
 ctfriend.net
+ctinets.com
 ctinews.com
 ctitv.com.tw
 ctowc.org
@@ -3591,6 +3593,7 @@ internetexplorer.co
 internetexplorer.com
 internetfreedom.org
 internetpopculture.com
+interseclab.org
 inthenameofconfuciusmovie.com
 intunewiki.com
 investigating.wordpress.com
@@ -5026,6 +5029,7 @@ ocreampies.com
 ocry.com
 ocsp.int-x3.letsencrypt.org
 october-review.org
+octocaptcha.com
 oculus.com
 oculuscdn.com
 odysee.com
