@@ -2399,6 +2399,8 @@ freeforums.org
 freefq.com
 freefuckvids.com
 freegao.com
+freegpt.es
+freegpt.tech
 freehongkong.org
 freeilhamtohti.org
 freekazakhs.org
@@ -3493,6 +3495,7 @@ img-s-msn-com.akamaized.net
 img.dlsite.jp
 img.ly
 img.picgo.net
+img2go.com
 imgasd.com
 imgchili.net
 imgmega.com
