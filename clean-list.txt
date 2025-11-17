@@ -107,6 +107,7 @@
 500px.org
 50webs.com
 51.ca
+51cg1.com
 51jav.org
 51luoben.com
 5278.cc
@@ -154,6 +155,7 @@
 8world.com
 8z1.net
 9.rarbg.me
+91cg1.com
 91dasai.com
 91jinman.com
 91porn.com
@@ -394,6 +396,7 @@ aolchannels.aol.com
 aolnews.com
 aomedia.org
 aomiwang.com
+aoxvpn.com
 ap.org
 apartmentratings.com
 apartments.com
@@ -747,6 +750,7 @@ beth.games
 bethesda.net
 bethesdagamestudios.com
 bethsoft.com
+bettergpt.chat
 betterhash.net
 betternet.co
 bettervpn.com
@@ -1153,6 +1157,7 @@ cams.com
 cams.org.sg
 canadameet.com
 canalporno.com
+canva.com
 canyu.org
 cao.im
 caobian.info
@@ -1198,6 +1203,7 @@ cccat.co
 ccdtr.org
 ccfd.org.tw
 cchere.com
+cchostvps.xyz
 ccim.org
 cclife.ca
 cclife.org
@@ -1279,9 +1285,11 @@ char.iis.sinica.edu.tw
 character.ai
 chardb.iis.sinica.edu.tw
 charticulator.com
+chat.com
 chat.lmsys.org
 chatgpt.com
 chatnook.com
+chatpdf.com
 chaturbate.com
 checkgfw.com
 chengmingmag.com
@@ -1704,6 +1712,7 @@ daolan.net
 daozhongxing.org
 darktech.org
 darktoy.net
+darmau.co
 darpa.mil
 darrenliuwei.com
 dashlane.com
@@ -2308,6 +2317,7 @@ fiddle.jshell.net
 figprayer.com
 fileflyer.com
 fileforum.com
+files.oaiusercontent.com
 files2me.com
 fileserve.com
 filesor.com
@@ -2353,6 +2363,7 @@ flipwithsurface.com
 flitto.com
 flnet.org
 flog.tw
+flowgpt.com
 flowhongkong.net
 fluidpreview.com
 flurry.com
@@ -2373,6 +2384,7 @@ fooooo.com
 footprintdns.com
 footwiball.com
 forbes.com
+forefront.ai
 foreignaffairs.com
 foreignpolicy.com
 form.new
@@ -3208,6 +3220,7 @@ hgseav.com
 hhdcb3office.org
 hhthesakyatrizin.org
 hi-on.org.tw
+hicairo.com
 hiccears.com
 hidden-advent.org
 hide.me
@@ -3445,6 +3458,7 @@ hwinfo.com
 hxwk.org
 hxwq.org
 hybrid-analysis.com
+hyperbeam.com
 hyperrate.com
 hypothes.is
 hysteria.network
@@ -3756,7 +3770,6 @@ jfqu37.xyz
 jgoodies.com
 jiangweiping.com
 jiaoyou8.com
-jichangtj.com
 jiehua.cz
 jiepang.com
 jieshibaobao.com
@@ -4010,6 +4023,7 @@ lesoir.be
 lester850.info
 letou.com
 letscorp.net
+lexica.art
 lflink.com
 lflinkup.com
 lflinkup.net
@@ -4134,6 +4148,7 @@ lsmkorean.org
 lsmradio.com
 lsmwebcast.com
 lsxszzg.com
+lt.sntp.uk
 ltn.com.tw
 luckydesigner.space
 luckymobile.ca
@@ -4532,6 +4547,7 @@ mixpod.com
 mixx.com
 mizzmona.com
 mjib.gov.tw
+mjj.rip
 mjlsh.usc.cuhk.edu.hk
 mk5000.com
 mlc.ai
@@ -5743,6 +5759,7 @@ renlifang.com
 renminbao.com
 renovacionoffice.com
 renovacionxboxlive.com
+rentry.co
 renyurenquan.org
 research.google
 resilio.com
@@ -5817,6 +5834,7 @@ rule34video.com
 rumble.com
 runbtx.com
 rushbee.com
+rustdesk.com
 rusvpn.com
 ruten.com.tw
 rutracker.net
@@ -6184,6 +6202,7 @@ sonidodelaesperanza.org
 sony.jp
 sopcast.com
 sopcast.org
+sora.com
 sorazone.net
 sorting-algorithms.com
 sos.org
@@ -6235,6 +6254,7 @@ spoprod-a.akamaihd.net
 sports.williamhill.com
 spotflux.com
 spotify.com
+spotifycdn.com
 spreadsheet.new
 spreadshirt.es
 spreaker.com
@@ -6557,6 +6577,7 @@ tenor.com
 tensorflow.org
 tenzinpalmo.com
 terabox.com
+terobox.com
 tew.org
 textnow.com
 textnow.me
