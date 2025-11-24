@@ -1090,6 +1090,7 @@ budaedu.org
 buddhanet.com.tw
 buddhistchannel.tv
 buffered.com
+built-in.google
 bullguard.com
 bullog.org
 bullogger.com
@@ -1540,6 +1541,7 @@ coinrail.co.kr
 cointiger.com
 cointobe.com
 coinut.com
+colab.google
 colacloud.net
 collateralmurder.com
 collateralmurder.org
@@ -1885,6 +1887,7 @@ dongyangjing.com
 donmai.us
 dontfilter.us
 dontmovetochina.com
+doodles.google
 doom9.org
 doosho.com
 doourbest.org
@@ -3077,6 +3080,7 @@ great-firewall.com
 great-roc.org
 greatfire.org
 greatfire.us7.list-manage.com
+greatfirevpn.com
 greatfirewall.biz
 greatfirewallofchina.net
 greatfirewallofchina.org
@@ -4007,6 +4011,7 @@ ldplayer.net
 ldplayer.tw
 le-vpn.com
 leafyvpn.net
+learning.google
 lecloud.net
 ledger.com
 leeao.com.cn
@@ -4021,6 +4026,7 @@ leisurecafe.ca
 leisurepro.com
 lematin.ch
 lemonde.fr
+lens.google
 lenwhite.com
 lerosua.org
 lers.google
@@ -4043,6 +4049,7 @@ liaowangxizang.net
 liberal.org.hk
 libertysculpturepark.com
 libertytimes.com.tw
+library-access.sk
 library.usc.cuhk.edu.hk
 libraryinformationtechnology.com
 libredd.it
@@ -4091,6 +4098,7 @@ liuhanyu.com
 liujianshu.com
 liuxiaobo.net
 liuxiaotong.com
+live-video.net
 live.cn
 live.com
 live.com.akadns.net
@@ -4490,6 +4498,7 @@ middle-way.net
 mihk.hk
 mihr.com
 mihua.org
+mij.rip
 mikanani.me
 mike.cz.cc
 mikesoltys.com
@@ -4551,6 +4560,7 @@ mixi.jp
 mixpod.com
 mixx.com
 mizzmona.com
+mji.rip
 mjib.gov.tw
 mjj.rip
 mjj.today
@@ -5379,6 +5389,7 @@ picacomic.com
 picacomiccn.com
 picasaweb.com
 picidae.net
+picsart.com
 picturedip.com
 picturesocial.com
 picuki.com
@@ -5596,6 +5607,7 @@ pttvan.org
 pttweb.cc
 pttyes.com
 ptwxz.com
+publicpolicy.google
 pubu.com.tw
 puffin.com
 puffinbrowser.com
@@ -5925,6 +5937,7 @@ scriptspot.com
 seapuff.com
 search.aol.com
 search.com
+search.google
 search.xxx
 search.yahoo.co.jp
 searchapi.culture.tw
@@ -6417,6 +6430,7 @@ sustainability.google
 suyangg.com
 svc.ms
 svsfx.com
+swag.live
 swagbucks.com
 swapspace.co
 sway-cdn.com
@@ -6880,6 +6894,7 @@ trafficmanager.net
 trakt.tv
 translate.goog
 translatetheweb.com
+transparency.google
 transparency.org
 travelinkcard.com
 treemall.com.tw
@@ -7421,6 +7436,7 @@ waikeung.org
 wailaike.net
 wainao.me
 waiwaier.com
+wallet.google
 walletconnect.com
 wallhaven.cc
 wallmama.com
@@ -7571,6 +7587,7 @@ wikipedia.com
 wikipedia.org
 wikiquote.org
 wikisource.org
+wikiunblocked.org
 wikiversity.org
 wikivoyage.org
 wikiwand.com
@@ -7828,6 +7845,7 @@ xmovies.com
 xn--11xs86f.icu
 xn--4gq171p.com
 xn--90wwvt03e.com
+xn--9iqy04a7fi01l.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
