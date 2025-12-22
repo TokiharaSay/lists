@@ -829,6 +829,7 @@ bird.so
 bit-z.com
 bit.do
 bit.ly
+bitbaby.com
 bitbay.net
 bitc.bme.emory.edu
 bitchute.com
@@ -1485,6 +1486,7 @@ cmcn.org
 cmegroup.com
 cmi.org.tw
 cmoinc.org
+cmoney.tw
 cmp.hku.hk
 cms.gov
 cmule.com
@@ -3508,6 +3510,7 @@ id.hao123.com
 id.heroku.com
 id.taipei
 idaiwan.com
+idcflare.com
 iddddg.com
 idemocracy.asia
 identi.ca
@@ -5309,6 +5312,7 @@ parkansky.com
 parler.com
 parse.com
 parsevideo.com
+partnerstack.xyz
 parts.blog.livedoor.jp
 partycasino.com
 partypoker.com
@@ -6333,6 +6337,7 @@ startuplivingchina.com
 stat.gov.tw
 statearmor.org
 static-economist.com
+static.pocketcasts.com
 static.shemalez.com
 static01.nyt.com
 statically.io
