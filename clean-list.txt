@@ -1869,7 +1869,6 @@ dockerhub.com
 dockerstatus.com
 docs.cfw.lbyczf.com
 docs.com
-docs.deno.com
 docs.new
 doctorvoice.org
 documentingreality.com
@@ -2675,6 +2674,7 @@ gfw.org.ua
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 gfx.ms
 ggjav.com
 ggpht.com
@@ -3694,6 +3694,7 @@ ismalltits.com
 ismprofessional.net
 isohunt.com
 israbox.com
+issues.chromium.org
 issuu.com
 istars.co.nz
 istef.info
@@ -4155,6 +4156,7 @@ lotsawahouse.org
 lotuslight.org.hk
 lotuslight.org.tw
 loukky.com
+lovart.ai
 loved.hk
 lovetvshow.com
 lpsg.com
@@ -4864,6 +4866,7 @@ nengcard.com
 neo-miracle.com
 neo.com.tw
 neowin.net
+nephobox.com
 netalert.me
 netbirds.com
 netcolony.com
@@ -6353,6 +6356,7 @@ stboy.net
 stc.com.sa
 steambroadcast.akamaized.net
 steamcommunity.com
+steamladder.com
 steamstatic.com
 steel-storm.com
 steemit.com
