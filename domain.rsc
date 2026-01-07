@@ -260,6 +260,7 @@
 /ip dns static add regexp="^(.*\\.)?ai\\.dev\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ai\\.google\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ai\\.ls\$" type=FWD forward-to=192.168.4.5 comment=gfw
+/ip dns static add regexp="^(.*\\.)?ai\\.studio\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aicscience\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aiosearch\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aiph\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -3696,7 +3697,6 @@
 /ip dns static add regexp="^(.*\\.)?ismprofessional\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?isohunt\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?israbox\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?issues.chromium\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?issuu\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?istars.co\\.nz\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?istef\\.info\$" type=FWD forward-to=192.168.4.5 comment=gfw
