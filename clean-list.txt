@@ -278,6 +278,7 @@ aiweiweiblog.com
 ajunews.com
 aka.ms
 akademiye.org
+akamai.tvb.com
 akamaihd.net
 akiba-online.com
 akiba-web.com
@@ -364,7 +365,10 @@ animeshippuuden.com
 animezilla.com
 aniscartujo.com
 ankarazirvesi2018.com
+annas-archive.in
+annas-archive.li
 annas-archive.org
+annas-archive.pm
 annas-archive.se
 annatam.com
 anobii.com
@@ -1772,8 +1776,6 @@ demo.opera-mini.net
 demo.unlock-music.dev
 democrats.org
 demosisto.hk
-deno.com
-deno.dev
 depositphotos.com
 derekhsu.homeip.net
 derpibooru.org
@@ -2707,7 +2709,6 @@ githubassets.com
 githubcopilot.com
 githubmemory.com
 githubusercontent.com
-gitlab.com
 gitlab.net
 gitmemory.com
 gizlen.net
@@ -4814,6 +4815,7 @@ myspace.com
 myspacecdn.com
 mytalkbox.com
 mytizi.com
+mytvsuper.com
 mywife.cc
 mywww.biz
 myz.info
@@ -7016,6 +7018,7 @@ tv.com
 tv.google
 tv.jtbc.joins.com
 tvants.com
+tvbanywhere.com
 tvboxnow.com
 tvbs.com.tw
 tvider.com
