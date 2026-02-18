@@ -264,7 +264,6 @@
 /ip dns static add regexp="^(.*\\.)?airitilibrary\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?airvpn\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aisex\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?aiss.anws.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ait.org\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aiv-cdn\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aiv-cdn.net.c.footprint\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -468,7 +467,6 @@
 /ip dns static add regexp="^(.*\\.)?archiveofourown\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?archiveofourown\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?archives\\.gov\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?archives.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?arctosia\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?areca-backup\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?arena\\.taipei\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -1721,7 +1719,6 @@
 /ip dns static add regexp="^(.*\\.)?dashlane\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?dastrassi\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?data-vocabulary\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?data.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?data\\.taipei\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?datacenters\\.google\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?daum\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -2150,7 +2147,6 @@
 /ip dns static add regexp="^(.*\\.)?everipedia\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?evoke-windowsservices-tas\\.msedge\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?evschool\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?exam.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?exblog\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?exchristian\\.hk\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?excite.co\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -2173,7 +2169,6 @@
 /ip dns static add regexp="^(.*\\.)?extratorrent.unblockit\\.bet\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?extremetube\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?exx\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?ey.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?eyevio\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?eyny\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ezpc\\.tk\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -2182,7 +2177,6 @@
 /ip dns static add regexp="^(.*\\.)?f-droid\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?f2pool\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?f8\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?fa.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?facebook\\.br\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?facebook\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?facebook.com\\.br\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -2287,7 +2281,6 @@
 /ip dns static add regexp="^(.*\\.)?fc2china\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?fc2cn\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?fc2web\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?fda.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?fdbox\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?fdc64\\.de\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?fdc64\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -3400,7 +3393,6 @@
 /ip dns static add regexp="^(.*\\.)?howtoforge\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hoxx\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hoy\\.tv\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?hpa.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hpjav\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hqcdp\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hqjapanesesex\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -3597,7 +3589,6 @@
 /ip dns static add regexp="^(.*\\.)?imkev\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?imlive\\.co\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?imlive\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?immigration.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?immoral\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?impact.org\\.au\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?impp\\.mn\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -3712,7 +3703,6 @@
 /ip dns static add regexp="^(.*\\.)?isuntv\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?isupportuyghurs\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?itaboo\\.info\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?itaiwan.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?italiatibet\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?itasoftware\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?itch\\.io\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -3847,7 +3837,6 @@
 /ip dns static add regexp="^(.*\\.)?jsfiddle\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?jtvnw\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?jubushoushen\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?judicial.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?juhuaren\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?jukujo-club\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?juliepost\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -4182,7 +4171,6 @@
 /ip dns static add regexp="^(.*\\.)?luxebc\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lvhai\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lvv2\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?ly.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lyfhk\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lync\\.cn\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lync\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -4568,7 +4556,6 @@
 /ip dns static add regexp="^(.*\\.)?mixx\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mizzmona\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mji\\.rip\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?mjib.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mjj\\.rip\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mjj\\.today\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mjlsh.usc.cuhk.edu\\.hk\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -4591,21 +4578,17 @@
 /ip dns static add regexp="^(.*\\.)?mobypicture\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mod\\.io\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?modernchinastudies\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?moeaic.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?moeerolibrary\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?moegirl\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?moeshare\\.cc\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?mofa.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mofaxiehui\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mofos\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mog\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mohu\\.club\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mohu\\.ml\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mohu\\.rocks\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?moj.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mojang\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mojim\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?mol.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?molihua\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?momentumms\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?momoshop.com\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -4739,7 +4722,6 @@
 /ip dns static add regexp="^(.*\\.)?muzi\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?muzi\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?muzu\\.tv\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?mvdis.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mvg\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mwf-service.akamaized\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mx981\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -4832,7 +4814,6 @@
 /ip dns static add regexp="^(.*\\.)?naol\\.ca\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?naol\\.cc\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?narod\\.ru\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?nat.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nat\\.moe\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?national-lottery.co\\.uk\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nationalawakening\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -4949,7 +4930,6 @@
 /ip dns static add regexp="^(.*\\.)?nga\\.mil\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ngensis\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nhentai\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?nhi.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nhk-ondemand\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nic.cz\\.cc\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nic\\.google\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -5013,9 +4993,7 @@
 /ip dns static add regexp="^(.*\\.)?noxinfluencer\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?noypf\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?npa.go\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?npa.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?npm.edu\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?npm.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?npnt\\.me\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nps\\.gov\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?npsboost\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -5032,10 +5010,6 @@
 /ip dns static add regexp="^(.*\\.)?ns1\\.name\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ns2\\.name\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ns3\\.name\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?nsc.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?ntbk.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?ntbna.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?ntbt.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ntd\\.tv\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ntdsf\\.tv\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ntdtv\\.ca\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -5334,7 +5308,6 @@
 /ip dns static add regexp="^(.*\\.)?pbxes\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pbxes\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pcanywhere\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?pcc.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pcdvd.com\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pcgamestorrents\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pchome.com\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -6344,7 +6317,6 @@
 /ip dns static add regexp="^(.*\\.)?starp2p\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?startpage\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?startuplivingchina\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?stat.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?statearmor\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?static-economist\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?static.bevylabs\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -6489,7 +6461,6 @@
 /ip dns static add regexp="^(.*\\.)?taa-usa\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taaze\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tabtter\\.jp\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?tacc.cwb.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tacem\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taconet.com\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taedp.org\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -6500,7 +6471,6 @@
 /ip dns static add regexp="^(.*\\.)?tahr.org\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tails\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tailwindtraders\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?taipei.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taipeisociety\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taipeitimes\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taisounds\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -6512,7 +6482,6 @@
 /ip dns static add regexp="^(.*\\.)?taiwandc\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taiwanembassy\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taiwanhot\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?taiwanjobs.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taiwanjustice\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taiwanjustice\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?taiwankiss\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -6631,7 +6600,6 @@
 /ip dns static add regexp="^(.*\\.)?tgfcer\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tgstat\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?thaicn\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?thb.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?theage.com\\.au\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?theatlantic\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?theatrum-belli\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -6832,7 +6800,6 @@
 /ip dns static add regexp="^(.*\\.)?tinypaste\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tinyurl\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tipas\\.net\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?tipo.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tistory\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tkcs-collins\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tl\\.gd\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -7049,6 +7016,7 @@
 /ip dns static add regexp="^(.*\\.)?twelve\\.today\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?twerkingbutt\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?twftp\\.org\$" type=FWD forward-to=192.168.4.5 comment=gfw
+/ip dns static add regexp="^(.*\\.)?twgov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?twgreatdaily\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?twibase\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?twibble\\.de\$" type=FWD forward-to=192.168.4.5 comment=gfw
@@ -7488,7 +7456,6 @@
 /ip dns static add regexp="^(.*\\.)?waymo\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wbd\\.ms\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wd\\.bible\$" type=FWD forward-to=192.168.4.5 comment=gfw
-/ip dns static add regexp="^(.*\\.)?wda.gov\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wdf5\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wealth.com\\.tw\$" type=FWD forward-to=192.168.4.5 comment=gfw
 /ip dns static add regexp="^(.*\\.)?wearehairy\\.com\$" type=FWD forward-to=192.168.4.5 comment=gfw
