@@ -469,6 +469,7 @@ archiveofourown.org
 archives.gov
 arctosia.com
 areca-backup.org
+arena.ai
 arena.taipei
 arethusa.su
 aria.ms
@@ -481,6 +482,7 @@ artstation.com
 artsy.net
 arunachalforests.gov.in
 arvanstorage.ir
+arweave.org
 as.mr
 asacp.org
 asdfg.jp
@@ -547,6 +549,7 @@ avfantasy.com
 avg.com
 avgle.com
 avidemux.org
+avjb.com
 avmo.pw
 avmoo.com
 avmoo.net
@@ -4252,6 +4255,7 @@ manjaro.org
 mansion.com
 mansionpoker.com
 manta.com
+manus.im
 manyvoices.news
 mapblast.com
 maplew.com
@@ -4990,6 +4994,7 @@ nlfreevpn.com
 nmns.edu.tw
 nmsl.website
 nnews.eu
+nnyy.in
 no-ip.org
 nobel.se
 nobelprize.org
@@ -7655,6 +7660,7 @@ wiredpen.com
 wireguard.com
 wisdompubs.org
 wisevid.com
+wispbyte.com
 withgoogle.com
 withyoutube.com
 witnessleeteaching.com
